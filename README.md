@@ -1,4 +1,5 @@
 # 🎓 Student Placement Prediction System
+https://student-placement-prediction-system-4pufrujvyrhgxi88pckcyc.streamlit.app/
 
 An advanced Machine Learning web application that predicts whether a student is likely to get placed based on academic performance, technical skills, projects, internships, and other career-related features.
 
